@@ -1,3 +1,4 @@
+//MCI
 const BASE_URL = 'api/users?page=2'; 
 
 export const getUsers = async () => {
